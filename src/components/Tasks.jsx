@@ -1,6 +1,6 @@
 import { Stack } from '@mui/material';
 import React, { useState, useContext, useMemo } from 'react';
-import Todo from './Todo';
+import Todo from './ToDo';
 import Filter from './Filter';
 import { TodoContext } from '../context/todoContext';
 import { FilterContext } from '../context/FilterContext';
